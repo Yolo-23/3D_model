@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kratos Fortnite
+* source:	https://sketchfab.com/3d-models/kratos-fortnite-e2d74267c1634f8390a2e74a6d5f3636
+* author:	Rododoje (https://sketchfab.com/hatchbrother)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kratos Fortnite" (https://sketchfab.com/3d-models/kratos-fortnite-e2d74267c1634f8390a2e74a6d5f3636) by Rododoje (https://sketchfab.com/hatchbrother) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
